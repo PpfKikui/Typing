@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\typing\typing\bin\Debug\typing.exe.config
+C:\Users\user\source\repos\typing\typing\bin\Debug\typing.exe
+C:\Users\user\source\repos\typing\typing\bin\Debug\typing.pdb
+C:\Users\user\source\repos\typing\typing\obj\Debug\typing.csprojAssemblyReference.cache
+C:\Users\user\source\repos\typing\typing\obj\Debug\typing.Form1.resources
+C:\Users\user\source\repos\typing\typing\obj\Debug\typing.Properties.Resources.resources
+C:\Users\user\source\repos\typing\typing\obj\Debug\typing.csproj.GenerateResource.cache
+C:\Users\user\source\repos\typing\typing\obj\Debug\typing.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\typing\typing\obj\Debug\typing.exe
+C:\Users\user\source\repos\typing\typing\obj\Debug\typing.pdb
